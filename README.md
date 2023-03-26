@@ -3,7 +3,7 @@
 
 Solution to GENC LEARN (TEKSTAC PLATFORM) 
 
-DOMAIN (Informatica Powercenter - IICS)
+## DOMAIN (Informatica Powercenter - IICS)
 
 
 ## Database Fundamentals & Softskills
@@ -67,4 +67,3 @@ Solutions for this above are as follows;
 [27- GUEST DETAILS WHO MAKE MORE THAN 1 BOOKING](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/27-%20GUEST%20DETAILS%20WHO%20MAKE%20MORE%20THAN%201%20BOOKING.sql)
 
 [28- CAKE ORDER DETAILS](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/28-%20CAKE%20ORDER%20DETAILS.sql)
-
