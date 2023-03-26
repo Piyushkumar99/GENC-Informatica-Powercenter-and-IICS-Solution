@@ -67,3 +67,17 @@ Solutions for Database Fundamentals & Softskills are as follows;
 [27- GUEST DETAILS WHO MAKE MORE THAN 1 BOOKING](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/27-%20GUEST%20DETAILS%20WHO%20MAKE%20MORE%20THAN%201%20BOOKING.sql)
 
 [28- CAKE ORDER DETAILS](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/28-%20CAKE%20ORDER%20DETAILS.sql)
+
+### Assessment on SQL
+
+[1- DISPLAY CUSTOMER COUNT](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/assessment/1-%20DISPLAY%20CUSTOMER%20COUNT.sql)
+
+[2- DISPLAY CUSTOMER AND MOVIE DETAILS](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/assessment/2-%20DISPLAY%20CUSTOMER%20AND%20MOVIE%20DETAILS.sql)
+
+[3- DISPLAY CUSTOMER AND ISSUE DETAILS](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/assessment/3-%20DISPLAY%20CUSTOMER%20AND%20ISSUE%20DETAILS.sql)
+
+[4- DISPLAY REGISTERED USERS DETAILS](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/assessment/4-%20DISPLAY%20REGISTERED%20USERS%20DETAILS.sql)
+
+[5- DSIPLAY MOVIES NAMES WITH NUMBER OF TIMES](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/assessment/5-%20DSIPLAY%20MOVIES%20NAMES%20WITH%20NUMBER%20OF%20TIMES.sql)
+
+[6- DISPLAY MOVIE DETAILS](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/SQL/assessment/6-%20DISPLAY%20MOVIE%20DETAILS.sql)
