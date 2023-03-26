@@ -6,7 +6,7 @@ Solution to GENC LEARN (TEKSTAC PLATFORM)
 ## DOMAIN (Informatica Powercenter - IICS)
 
 
-## Database Fundamentals & Softskills
+## 1. Database Fundamentals & Softskills
 
 Solutions for this above are as follows;
 
