@@ -8,7 +8,7 @@ Solution to GENC LEARN (TEKSTAC PLATFORM)
 
 ## 1. Database Fundamentals & Softskills
 
-Solutions for this above are as follows;
+Solutions for Database Fundamentals & Softskills are as follows;
 
 ### Hands-on
 
