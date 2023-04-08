@@ -86,7 +86,7 @@ Solutions for Database Fundamentals & Softskills are as follows;
 
 ## 2. Data Warehouse Fundamentals, Unix and Shell Scripting & Softskills
 
-Solutions for this above are as follows;
+Solutions are as follows;
 ###  Hands-on (Shell Scripting)
 
 [1- COPY FILE 1](https://github.com/Piyushkumar99/GENC-Informatica-Powercenter-and-IICS-Solution/blob/main/Shell%20Scripting/COPY%20FILE%201.sh)
